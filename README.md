@@ -17,7 +17,7 @@
 - 🌱 I’m learning about **[Tech/Skill you're exploring]**
 - 👯 I’m open to collaborate on **exciting and meaningful projects**
 - 🧠 I love solving problems and turning ideas into reality
-- ✨ Fun fact: *I enjoy late-night coding, storytelling, and tea over coffee ☕*
+- ✨ Fun fact: *I enjoy late-night coding, storytelling, and tea over coffee☕*
 
 ---
 
