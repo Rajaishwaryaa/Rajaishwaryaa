@@ -5,7 +5,7 @@
 
 ### 📬 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajaishwarya)](https://linkedin.com/in/rajaishwarya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Rajaishwaryaa)](https://linkedin.com/in/rajaishwarya)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
